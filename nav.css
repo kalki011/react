@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+}
+.nav{
+    background-color: #7a431d ;
+    margin-top: 0%;
+    text-align: start;
+    height: 60px;
+     font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+     
+}
+h2{
+    margin-top: 10px;
+}

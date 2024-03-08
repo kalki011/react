@@ -1,0 +1,10 @@
+.direction{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20%;
+    margin-top: 10%;
+     
+  }
+  .btn{
+    height: 40px;
+  }
