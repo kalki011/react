@@ -7,19 +7,24 @@ const Carddata = [
     img:create,
     title:"Registration",
     description:"For the new users",
-    button:"Register"
+    button:"Register",
+    navigate:"signup"
 
 },{
     img:update,
-    title:"update",
+    title:"Update details",
     description:"To update your data",
-    button:"update"
+    button:"update",
+    navigate:"update"
+
 
 },{
     img:renewal,
-    title:"Renewal",
+    title:"Renewal ",
     description:"To extend your expiry",
-    button:"Renewal"
+    button:"Renewal",
+    navigate:"renewal"
+
 
 }
   ]
