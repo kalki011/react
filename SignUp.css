@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.sign{
+    display: block ;
+    width: 1200px;
+    padding-left: 50px;
+    padding-top: 10%;
+}
+.wi{
+    box-sizing:content-box;
+
+ }
+.btn{
+    margin-top: 3%;
+    margin-left: 0.5%;
+}
