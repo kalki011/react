@@ -2,14 +2,20 @@
     margin: auto;
 }
 .nav{
-    background-color: #7a431d ;
+    background-color: #0000005e ;
     margin-top: 0%;
     text-align: start;
     height: 60px;
      font-size: 25px;
-    color: #ffffff;
+    color: #000000;
     text-align: center;
-     
+
+    background: rgba((255), 255, 255, 0.25);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 1px solid rgba((255), 255, 255, 0.25);
+    
+    /* 0000005e */
 }
 h2{
     margin-top: 10px;

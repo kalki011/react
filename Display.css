@@ -1,0 +1,26 @@
+ #card2{
+   
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 45%;
+  height:45%;
+  text-align: center;
+ }
+ .success{
+    position: absolute;
+  top: 50%;
+  right:10%;
+  font-size: 25px;
+  text-align: center;
+
+ }
+ .failure{
+  position: absolute;
+  top: 45%;
+  right:30%;
+  font-size: 25px;
+  text-align: center;
+
+ }
